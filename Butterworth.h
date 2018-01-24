@@ -41,6 +41,7 @@ THE SOFTWARE.
 #include "DspFilters/Design.h"
 #include "DspFilters/Filter.h"
 #include "DspFilters/PoleFilter.h"
+#include "DspFilters/Params.h"
 
 namespace Dsp {
 
